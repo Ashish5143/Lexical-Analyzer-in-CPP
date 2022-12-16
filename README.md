@@ -1,1 +1,2 @@
 # Lexical-Analyzer-in-CPP
+The Lexical Analyzer program translates a stream of individual letters, which are generally grouped as lines, into a stream of lexical tokens. Tokenization, for example, of source code words and punctuation symbols. The project’s main goal/purpose is to take a C file and generate a sequence of tokens that can be utilized in the next stage of compilation. This should also account for any error handling requirements that may arise during tokenization.
